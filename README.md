@@ -1,5 +1,6 @@
 ## Me chamo Douglas Fernandes.
 ### Saudações! Seja bem vindo ao meu portfólio de repositórios.
+##### Tenho como objetivo entrar no mercado de trabalho como desenvolvedor Full-Stack.
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasFernandesDev&layout=compact&langs_count=7&theme=aura"/>
