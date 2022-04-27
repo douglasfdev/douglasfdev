@@ -5,7 +5,7 @@
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasFernandesDev&layout=compact&langs_count=7&theme=aura"/>
 </div>
-<h4> Tecnologias Backend que utilizo </h4>
+<h4> Tecnologias Backend que utilizo: </h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="dodo-NJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="dodo-TS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
