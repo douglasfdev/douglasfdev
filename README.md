@@ -1,6 +1,8 @@
 ## Me chamo Douglas Fernandes.
-### Saudações! Seja bem vindo ao meu portfólio de repositórios.
-##### Tenho como objetivo entrar no mercado de trabalho como desenvolvedor Full-Stack.
+### Saudações <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! Seja bem vindo ao meu portfólio de repositórios. 
+##### 💻 Tenho como objetivo entrar no mercado de trabalho como desenvolvedor Full-Stack Jr.
+##### 🎓 Estudante de Stacks tanto no Front-end como Back-end.
+##### 👨‍ 💻Todos os meus projetos estão disponiveis em [✅ Repositórios GitHub](https://github.com/DouglasFernandesDev?tab=repositories)
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasFernandesDev&layout=compact&langs_count=7&theme=aura"/>
