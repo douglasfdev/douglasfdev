@@ -4,9 +4,12 @@
 ##### 🎓 Estudante de Stacks tanto no Front-end como Back-end.
 ##### 👨‍ 💻Todos os meus projetos estão disponiveis em [✅ Repositórios GitHub](https://github.com/DouglasFernandesDev?tab=repositories)
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasFernandesDev&layout=compact&langs_count=7&theme=aura"/>
-</div>
+
+
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DouglasFernandesDev&theme=github_dark)
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasFernandesDev&layout=compact&langs_count=7&theme=aura"/>
+
 <h4> Tecnologias Backend que utilizo: </h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="dodo-NJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
