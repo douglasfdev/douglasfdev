@@ -13,7 +13,8 @@
 <h4> Tecnologias Backend que utilizo: </h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="dodo-NJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="dodo-TS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
+      <img align="center" alt="dodo-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="dodo-JS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
   <img align="center" alt="dodo-SB" height="30" width="40" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo-300x270.png">
   <img align="center" alt="dodo-PY" height="30" width="25"src="https://cdn.picpng.com/logo/language-logo-python-44976.png">
   <h4>Tecnologias Frontend que utilizo: </h4>
