@@ -7,7 +7,7 @@
 
 <br/>
 <div style="display: inline_block">
-<img height="200" width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DouglasFernandesDev&theme=github_dark">
+<img height="350" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DouglasFernandesDev&theme=tokyonight">
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasFernandesDev&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
