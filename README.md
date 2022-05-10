@@ -27,9 +27,7 @@
 <img align="center" alt="dodo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="dodo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="dodo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-<img align="right" alt="dodo-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/k4QKmwSw/git.jpg?width=676&height=676">
-</div>
+
                                                                                                                                              
                                                                                                                                              
   <p><h5>Contato:</h5>
