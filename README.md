@@ -17,18 +17,18 @@
 <img align="center" alt="dodo-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="dodo-MongoDB" height="30" width="30" src="https://www.clipartmax.com/png/full/275-2754492_mongodb-nosql-document-oriented-database-portable-network-mongodb-logo.png">
 <img align="center" alt="dodo-MongoDB" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
-<img align="center" alt="dodo-JS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
 <img align="center" alt="dodo-SB" height="30" width="40" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo-300x270.png">
 <img align="center" alt="dodo-PY" height="30" width="25"src="https://cdn.picpng.com/logo/language-logo-python-44976.png">
+<img align="center" alt="dodo-PY" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
   
   
 <h4>Tecnologias Frontend que utilizo: </h4>
-<img align="center" alt="dodo-NJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+<img align="center" alt="dodo-JS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
 <img align="center" alt="dodo-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="dodo-React" height="40 width="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
 <img align="center" alt="dodo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="dodo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="dodo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="dodo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
                                                                                                                                              
                                                                                                                                              
