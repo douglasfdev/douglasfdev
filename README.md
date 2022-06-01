@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/static/v1?label=Me+Chamo&message=Douglas+Fernandes&color=7159c1&style=for-the-badge&logo=ghost"/>
 
-### Saudações <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! Seja bem vindo ao meu portfólio de repositórios. 
+### Saudações <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">! Seja bem vindo ao meu portfólio de repositórios. 
 ##### 💻 Tenho como objetivo entrar no mercado de trabalho como desenvolvedor Full-Stack Jr.
 ##### 🎓 Estudante de Stacks tanto no Front-end como Back-end.
 ##### 👨‍ 💻Todos os meus projetos estão disponiveis em [✅ Repositórios GitHub](https://github.com/DouglasFernandesDev?tab=repositories)
