@@ -7,8 +7,8 @@
 
 <br/>
 <div style="display: inline_block">
-<img height="350" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DouglasFernandesDev&theme=tokyonight">
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasFernandesDev&layout=compact&langs_count=7&theme=aura"/>
+<img height="350" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DouglasFernandesDev&theme=tokyonight">
 </div>
 
 <h4> Tecnologias Backend que utilizo: </h4>
@@ -32,7 +32,7 @@
 
                                                                                                                                              
                                                                                                                                              
-  <p><h5>Contato:</h5>
+  <strong><h5>Contato:</h5>
 <div> 
   <a href="https://www.linkedin.com/in/douglasfdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:douglas.fernandes91@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
