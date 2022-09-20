@@ -36,9 +36,10 @@
 
 
 <br/>
-<img height="125em" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasfernandesdev&theme=tokyonight&hide_border=true">
+<div style="center">
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasfernandesdev&theme=tokyonight&hide_border=true">
 &nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasFernandesDev&layout=compact&langs_count=7&theme=aura" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasFernandesDev&layout=compact&langs_count=7&theme=aura" />
 </div>
 
 
