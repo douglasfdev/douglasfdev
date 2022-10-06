@@ -3,7 +3,7 @@
 ### Saudações <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">! Seja bem vindo ao meu portfólio de repositórios.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/douglasjrdev)
 
-##### 💻 Tenho como objetivo entrar no mercado de trabalho como desenvolvedor Full-Stack Jr.
+##### 💻 Desenvolvedor backend Jr.
 ##### 🎓 Estudante de Stacks tanto no Front-end como Back-end.
 ##### 👨‍ 💻Todos os meus projetos estão disponiveis em [✅ Repositórios GitHub](https://github.com/DouglasFernandesDev?tab=repositories)
 
@@ -34,7 +34,7 @@
 <div style="center">
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasfernandesdev&theme=tokyonight&hide_border=true">
 &nbsp;
-<img width="300" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasFernandesDev&theme=aura" />
+<img width="300" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfernandesdev&theme=aura" />
 </div>
 
 
