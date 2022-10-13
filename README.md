@@ -5,7 +5,7 @@
 
 ##### 💻 Desenvolvedor backend Jr.
 ##### 🎓 Estudante de Stacks tanto no Front-end como Back-end.
-##### 👨‍ 💻Todos os meus projetos estão disponiveis em [✅ Repositórios GitHub](https://github.com/DouglasFernandesDev?tab=repositories)
+##### 👨‍ 💻Todos os meus projetos estão disponiveis no link: [Repositórios GitHub](https://github.com/DouglasFernandesDev?tab=repositories)
 
 ## Ambiente de Desenvolvimento/Produção
 ![Ubuntu package](https://img.shields.io/badge/ubuntu-v22.04--lubuntu-blue?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -20,7 +20,22 @@
 ![Babel](https://img.shields.io/static/v1?style=for-the-badge&message=Babel&color=222222&logo=Babel&logoColor=F9DC3E&label=)
 ![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=)
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+
+## Stacks & Techs
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) 
 
 ## Contato
 
@@ -34,7 +49,7 @@
 <div style="center">
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasfernandesdev&theme=tokyonight&hide_border=true">
 &nbsp;
-<img width="300" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfernandesdev&theme=aura" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfernandesdev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
