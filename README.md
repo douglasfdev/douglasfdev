@@ -3,9 +3,9 @@
 ### Saudações <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">! Seja bem vindo ao meu portfólio de repositórios.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/douglasjrdev)
 
-##### 💻 Desenvolvedor backend Jr.
-##### 🎓 Estudante de Stacks tanto no Front-end como Back-end.
-##### 👨‍ 💻Todos os meus projetos estão disponiveis no link: [Repositórios GitHub](https://github.com/DouglasFernandesDev?tab=repositories)
+#### 💻 Desenvolvedor backend Jr.
+#### 🎓 Estudante de Stacks tanto no Front-end como Back-end.
+#### 👨‍ 💻Todos os meus projetos estão disponiveis no link: [Repositórios GitHub](https://github.com/DouglasFernandesDev?tab=repositories)
 
 ## Ambiente de Desenvolvimento/Produção
 ![Ubuntu package](https://img.shields.io/badge/ubuntu-v22.04--lubuntu-blue?style=for-the-badge&logo=ubuntu&logoColor=white)
