@@ -46,12 +46,12 @@
 [![Microsoft Outlook](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Outlook&color=0078D4&logo=Microsoft+Outlook&logoColor=FFFFFF&label=)](mailto:douglas.fernandes91@live.com)
 [![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)](https://discord.com/users/274269509710512139)
 
-
 <br/>
+
 <div style="center">
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasfernandesdev&theme=tokyonight&hide_border=true">
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasfdev&theme=tokyonight&hide_border=true">
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfernandesdev&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfdev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
