@@ -1,4 +1,4 @@
-<img lign="center" src="https://img.shields.io/static/v1?label=Me+Chamo&message=Douglas+Fernandes&color=7159c1&style=for-the-badge&logo=ghost"/>
+![Me](https://img.shields.io/static/v1?label=Me+Chamo&message=Douglas+Fernandes&color=7159c1&style=for-the-badge&logo=ghost)
 
 ### Saudações <img width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">! Seja bem vindo ao meu portfólio de repositórios.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/douglasjrdev)
@@ -50,11 +50,10 @@
 <br/>
 
 <div style="center">
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasfdev&theme=tokyonight&hide_border=true">
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfdev&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasfdev&theme=tokyonight&hide_border=true">
+&nbsp; <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfdev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
-  ![Generate Datas](https://github.com/DouglasFernandesDev/DouglasFernandesDev/blob/output/github-contribution-grid-snake.svg)
+![Generate Datas](https://github.com/DouglasFernandesDev/DouglasFernandesDev/blob/output/github-contribution-grid-snake.svg)
 </div>
