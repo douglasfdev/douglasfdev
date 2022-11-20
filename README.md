@@ -49,11 +49,8 @@
 
 <br/>
 
-<div style="center">
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasfdev&theme=tokyonight&hide_border=true">
-&nbsp; <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfdev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=douglasfdev&theme=tokyonight&hide_border=true)
 
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 ![Generate Datas](https://github.com/DouglasFernandesDev/DouglasFernandesDev/blob/output/github-contribution-grid-snake.svg)
 </div>
