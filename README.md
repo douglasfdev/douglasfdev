@@ -3,7 +3,7 @@
 ### Saudações <img width="30" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">! Seja bem vindo ao meu portfólio de repositórios.
 
 ### 💻 Desenvolvedor de Software.
-#### 🎓 Estudante de Stacks tanto no Front-end como Back-end.
+#### 🎓 Profissional nas Stacks tanto no Front-end como Back-end.
 #### 👨‍ 💻Todos os meus projetos estão disponiveis no link: [Repositórios GitHub](https://github.com/douglasfdev?tab=repositories)
 
 
